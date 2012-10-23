@@ -1,0 +1,2 @@
+#!/bin/jsc
+print( 'Hello' );
